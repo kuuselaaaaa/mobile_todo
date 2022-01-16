@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TO-DO</string>
+    <string name="add_task">Добавить</string>
+    <string name="header_text">Список дел</string>
+    <string name="hint_text">Новая задача...</string>
+    <string name="delete_task">Удалить</string>
+</resources>
